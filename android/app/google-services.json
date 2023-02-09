@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740645739063",
+    "project_id": "absenqu-fcb95",
+    "storage_bucket": "absenqu-fcb95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740645739063:android:28a44dd76c2647f402fdb2",
+        "android_client_info": {
+          "package_name": "com.absenqu.absenqu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740645739063-0cbjoqpb83agp5glt38bsdclod677pms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvpwoC9rxsx4VpN2gDmnuzvjW5DpnoHmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740645739063-0cbjoqpb83agp5glt38bsdclod677pms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
